@@ -1,0 +1,70 @@
+body{
+    width: 95%;
+    margin: 0 auto;
+    background-color: #202A44;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+hr{
+    border: solid 1px black;
+}
+
+#name{
+    display: inline;
+    background-color: black;
+    width: 140px;
+}
+
+#myNavBar{
+    background-color: black;
+    padding: 10px;
+}
+
+#bio{
+    color: white;
+}
+
+#education{
+    color: white;
+}
+
+#skills{
+    color: white;
+}
+
+#contact{
+    color: white;
+}
+
+ul li{
+    color: white;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-brand{
+    color: white;
+    padding-inline-start: 5px;
+}
+
+.navbar-item{
+    color: white;
+    text-decoration: none;
+}
